@@ -1,0 +1,17 @@
+{
+  "name": "downloadcssjs",
+  "version": "1.0.0",
+  "description": "donload",
+  "main": "index.js",
+  "scripts": {
+    "serve": "parcel index.html"
+  },
+  "author": "Denis Drozdov",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "firebase": "^9.6.3"
+  }
+}
